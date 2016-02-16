@@ -6,4 +6,5 @@ body{
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	-webkit-box-shadow: inset hoff voff blur color;
 		box-shadow: inset hoff voff blur color;	
+		font-weight: 14px;
 }
