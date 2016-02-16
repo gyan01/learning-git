@@ -3,5 +3,7 @@
 	padding:0;
 }
 body{	
-	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;	
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	-webkit-box-shadow: inset hoff voff blur color;
+		box-shadow: inset hoff voff blur color;	
 }
